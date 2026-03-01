@@ -26,6 +26,13 @@ The application allows users to search rooms, book rooms, cancel bookings, and v
 
 2. Run the GUI:
    java HotelGUI
+## 📸 Application Screenshot
+
+Below is the graphical user interface of the Hotel Reservation System demonstrating room booking and management functionality.
+
+<p align="center">
+  <img src="images/hotel-screenshot.png" alt="Hotel Reservation System Screenshot" width="850"/>
+</p>
 
 ## 📂 Project Structure
 - Room.java
